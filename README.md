@@ -14,7 +14,7 @@ Sou um desenvolvedor **front-end** de 14 anos, apaixonado por tecnologia desde p
 
 
 <div align="center">
-  <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=cavaleiro-olimpioo&show_icons=true&theme=dracula" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavaleiro-olimpioo&layout=donut&theme=dracula" />
+  <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=cavaleiro-olimpioo&show_icons=true&theme=dracula" /><img style="margin-left: 20px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavaleiro-olimpioo&layout=donut&theme=dracula" />
 </div>
 
 ---
