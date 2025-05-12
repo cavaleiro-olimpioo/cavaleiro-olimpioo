@@ -40,10 +40,10 @@ Sou um desenvolvedor **front-end** de 14 anos, apaixonado por tecnologia desde p
   <a href="https://portfolio-olimpio.vercel.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO">
+  <a href="https://instagram.com/guilherme_olimpio._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/SEU_ID">
+  <a href="https://discord.com/users/NPS_Cavaleiro#2946">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:guilhermearnaldi@gmail.com">
