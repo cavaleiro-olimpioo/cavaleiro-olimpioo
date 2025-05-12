@@ -51,4 +51,3 @@ Sou um desenvolvedor **front-end** de 14 anos, apaixonado por tecnologia desde p
   </a>
 </div>
 
-![Snake animation](https://github.com/cavaleiro-olimpioo/cavaleiro-olimpioo/blob/output/github-contribution-grid-snake.svg?sanitize=true)
