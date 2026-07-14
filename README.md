@@ -1,11 +1,8 @@
 <div align="center">
 
-<!--
-  BANNER: adicione sua imagem aqui quando tiver.
-  Dimensão recomendada: 1200x300px (proporção ~4:1) para não distorcer no GitHub.
-  Exemplo de uso:
-  <img src="URL_DA_SUA_IMAGEM" width="100%" alt="Banner" />
--->
+
+<img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" stryle="border-radius: 10px;" width="100%" alt="Banner" />
+
 
 # Olá, eu sou o Guilherme 👋
 
@@ -79,19 +76,17 @@ Uso **Arch Linux** como meu sistema operacional principal no dia a dia e mantenh
 **📋 Task Manager API**
 Backend em Spring Boot com autenticação JWT e camada de segurança customizada, consumido por um frontend em React/Vite. Projeto de portfólio focado em fundamentos sólidos de API REST e segurança.
 `Java` `Spring Boot` `JWT` `React`
-🔗 [link do repositório](#) <!-- adicionar link real -->
+🔗 [link do repositório](https://github.com/cavaleiro-olimpioo/taskManager)
 
 **🤖 Miguel — Assistente de IA local**
 Assistente estilo Jarvis rodando 100% em infraestrutura própria: backend em FastAPI, inferência via Ollama, arquitetura de plugins (tools, memória, shell) e interface animada em Three.js, com pipeline de voz (TTS/STT).
 `Python` `FastAPI` `Ollama` `Three.js`
-🔗 [link do repositório](#) <!-- adicionar link real -->
+🔗 [link do repositório](https://github.com/cavaleiro-olimpioo/Miguel)
 
 **🔐 hackTools**
 Conjunto de ferramentas de segurança de rede desenvolvido para estudo próprio — scanner ARP, scanner de portas, lookup de MAC e testes de força bruta contra dispositivos do meu próprio ambiente controlado. Projeto educacional para aprofundar fundamentos de redes e segurança ofensiva.
 `Python` `Networking` `Security`
-🔗 [link do repositório](#) <!-- adicionar link real -->
-
-> ⚠️ Lembrete: troque os `#` acima pelos links reais dos repositórios antes de publicar.
+🔗 [link do repositório](https://github.com/cavaleiro-olimpioo/hackTools)
 
 ---
 
