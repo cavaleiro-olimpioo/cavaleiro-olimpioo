@@ -17,13 +17,13 @@
 
 ### 🧭 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Etec e estudo **Java** no SENAI. Comecei programando por curiosidade com jogos, e hoje trabalho como freelancer em projetos web, migrando aos poucos de front-end puro para uma atuação full-stack.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Etec Bragança Paulista. Comecei programando por curiosidade com jogos, e hoje trabalho como freelancer em projetos web, migrando aos poucos de front-end puro para uma atuação full-stack.
 
-Uso **Arch Linux + Hyprland** no dia a dia e mantenho um servidor doméstico (`Pegasus`) para rodar meus próprios projetos de infraestrutura e IA local.
+Uso **Arch Linux** como meu sistema operacional principal no dia a dia e mantenho um servidor doméstico para rodar meus próprios projetos de infraestrutura e IA local.
 
-- 🔭 Aprofundando **Spring Boot** (autenticação JWT, segurança, APIs REST)
-- 🐍 Também trabalho com **Python/Flask** e **C#** em projetos de cliente
-- 🌱 Interesses paralelos: cibersegurança, visão computacional e programação competitiva (Codewars)
+- Aprofundando **Spring Boot** (autenticação JWT, segurança, APIs REST)
+- Também trabalho com **Python/Flask** e **C#** em projetos de cliente
+- Interesses paralelos: cibersegurança, visão computacional e ciência de dados
 
 ---
 
