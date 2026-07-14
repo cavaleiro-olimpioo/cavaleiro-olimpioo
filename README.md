@@ -95,13 +95,20 @@ Conjunto de ferramentas de segurança de rede desenvolvido para estudo próprio 
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavaleiro-olimpioo&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavaleiro-olimpioo&layout=donut&theme=dracula" />
+
+
+<div style="display: flex; justify-content: center; padding: 50;">
+
+  <img height="200" style="padding-right: 20;" src="https://github-stats-extended.vercel.app/api?username=cavaleiro-olimpioo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
+
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cavaleiro-olimpioo&theme=tokyonight&layout=compact&custom_title=Tecnologias">
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cavaleiro-olimpioo&theme=dracula" />
+<div style="display: flex; justify-content: center; margin-bottom: 50px;">
+  <img height="200" style="padding-right: 20;" src="https://github-readme-streak-stats.herokuapp.com/?user=cavaleiro-olimpioo&theme=tokyonight&locale=pt-br">
+
+  <img height="200" style="border-radius: 25px;" src="https://i.pinimg.com/736x/14/a0/76/14a0769ec2f5941fd56f82cfb6d4242a.jpg" alt="code">
 </div>
 
 <div align="center">
