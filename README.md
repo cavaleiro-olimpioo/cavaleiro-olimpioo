@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" stryle="border-radius: 10px;" width="100%" alt="Banner" />
+<img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" style="border-radius: 10px; margin-right: -5px;" width="100%" alt="Banner" />
 
 
 # Olá, eu sou o Guilherme 👋
@@ -14,7 +14,7 @@
 
 ### 🧭 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Etec Bragança Paulista. Comecei programando por curiosidade com jogos, e hoje trabalho como freelancer em projetos web, migrando aos poucos de front-end puro para uma atuação full-stack.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Etec Bragança Paulista. Comecei programando por curiosidade com jogos, e hoje trabalho como freelancer em projetos web, migrando aos pou[...]
 
 Uso **Arch Linux** como meu sistema operacional principal no dia a dia e mantenho um servidor doméstico para rodar meus próprios projetos de infraestrutura e IA local.
 
@@ -74,17 +74,17 @@ Uso **Arch Linux** como meu sistema operacional principal no dia a dia e mantenh
 ### 🚀 Projetos em destaque
 
 **📋 Task Manager API**
-Backend em Spring Boot com autenticação JWT e camada de segurança customizada, consumido por um frontend em React/Vite. Projeto de portfólio focado em fundamentos sólidos de API REST e segurança.
+Backend em Spring Boot com autenticação JWT e camada de segurança customizada, consumido por um frontend em React/Vite. Projeto de portfólio focado em fundamentos sólidos de API REST e segurança[...]
 `Java` `Spring Boot` `JWT` `React`
 🔗 [link do repositório](https://github.com/cavaleiro-olimpioo/taskManager)
 
 **🤖 Miguel — Assistente de IA local**
-Assistente estilo Jarvis rodando 100% em infraestrutura própria: backend em FastAPI, inferência via Ollama, arquitetura de plugins (tools, memória, shell) e interface animada em Three.js, com pipeline de voz (TTS/STT).
+Assistente estilo Jarvis rodando 100% em infraestrutura própria: backend em FastAPI, inferência via Ollama, arquitetura de plugins (tools, memória, shell) e interface animada em Three.js, com pipel[...]
 `Python` `FastAPI` `Ollama` `Three.js`
 🔗 [link do repositório](https://github.com/cavaleiro-olimpioo/Miguel)
 
 **🔐 hackTools**
-Conjunto de ferramentas de segurança de rede desenvolvido para estudo próprio — scanner ARP, scanner de portas, lookup de MAC e testes de força bruta contra dispositivos do meu próprio ambiente controlado. Projeto educacional para aprofundar fundamentos de redes e segurança ofensiva.
+Conjunto de ferramentas de segurança de rede desenvolvido para estudo próprio — scanner ARP, scanner de portas, lookup de MAC e testes de força bruta contra dispositivos do meu próprio ambiente [...]
 `Python` `Networking` `Security`
 🔗 [link do repositório](https://github.com/cavaleiro-olimpioo/hackTools)
 
