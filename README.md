@@ -1,8 +1,8 @@
 <div align="center">
 
-
-<img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" style="border-radius: 10px; margin-right: -5px;" width="100%" alt="Banner" />
-
+<div style="width: 105%; margin-left: -2.5%; border-radius: 10px; overflow: hidden;">
+  <img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%" alt="Banner" />
+</div>
 
 # Olá, eu sou o Guilherme 👋
 
