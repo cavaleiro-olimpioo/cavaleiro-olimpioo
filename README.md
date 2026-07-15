@@ -124,7 +124,7 @@ Ferramentas de segurança para estudos próprios: scanner ARP, scanner de portas
 <br>
 <div>
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=cavaleiro-olimpioo&theme=tokyonight&locale=pt-br"/>
-  <img width="140" src="[https://i.pinimg.com/474x/93/eb/f3/93ebf36db5392a1f067d166b6842dbd9.jpg](https://static.vecteezy.com/system/resources/thumbnails/011/298/205/small/watercolor-abstract-shape-png.png)">
+ 
   <img height="200" src=".github/workflows/AsciiArt.png"/>
 </div>
 
