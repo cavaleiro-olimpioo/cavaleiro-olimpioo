@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg" width="100%" alt="Banner"/>
+<img src=".github/banner.jpg" width="100%" alt="Banner"/>
 
 # Olá, eu sou o Guilherme 👋
 
