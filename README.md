@@ -79,7 +79,7 @@ Uso **Arch Linux** como meu sistema operacional principal no dia a dia e mantenh
   <img alt="Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="PostgreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
----
+
 
 # 🚀 Projetos em destaque
 
